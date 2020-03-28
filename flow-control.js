@@ -42,11 +42,11 @@ switch(age){
     break;
   case 18:
     return ("You are a teenager");
-    break;  
+    break;
   case 19:
     return ("You are a teenager");
     break;
   default:
-  return ("ou have an age")  
+  return ("ou have an age")
 }
 }
